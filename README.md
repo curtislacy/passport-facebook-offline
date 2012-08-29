@@ -11,7 +11,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Installation
 
-    $ npm install passport-facebook
+    $ npm install passport-facebook-offline
 
 ## Usage
 
